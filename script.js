@@ -50,6 +50,96 @@ const myQuestions = [
             c: "Dominancia parcial"
         },
         correctAnswer: "b"
+    },
+    {
+        question: "¿Qué ocurre en una mutación por inversión?", 
+        answers: {
+            a: "Un segmento del cromosoma se rompe y se orienta en sentido contrario",
+            b: "Se pierde una parte del cromosoma",
+            c: "Se duplica una parte del material genético"
+        },
+        correctAnswer: "a"
+    },
+    {
+        question: "La herencia en la que el fenotipo del heterocigoto es una mezcla intermedia se llama:", 
+        answers: {
+            a: "Dominancia completa",
+            b: "Dominancia incompleta",
+            c: "Codominancia"
+        },
+        correctAnswer: "b"
+    },
+    {
+        question: "¿Cuál es un ejemplo de alelos múltiples en humanos?", 
+        answers: {
+            a: "El color de los ojos",
+            b: "Los grupos sanguíneos ABO",
+            c: "La estatura"
+        },
+        correctAnswer: "b"
+    },
+    {
+        question: "¿Qué es la pleiotropía?", 
+        answers: {
+            a: "Cuando muchos genes afectan un solo rasgo",
+            b: "Cuando un solo gen afecta múltiples rasgos diferentes",
+            c: "Cuando un gen no tiene efecto alguno"
+        },
+        correctAnswer: "b"
+    },
+    {
+        question: "En la herencia ligada al sexo, ¿quiénes suelen ser portadoras pero no expresar la enfermedad?", 
+        answers: {
+            a: "Las mujeres (XX)",
+            b: "Los hombres (XY)",
+            c: "Ambos por igual"
+        },
+        correctAnswer: "a"
+    },
+    {
+        question: "¿Qué sucede en una mutación por deleción?", 
+        answers: {
+            a: "Se gana un fragmento de ADN",
+            b: "Se pierde un fragmento de cromosoma",
+            c: "El ADN se mueve a otro cromosoma"
+        },
+        correctAnswer: "b"
+    },
+    {
+        question: "La herencia mitocondrial se transmite exclusivamente a través de:", 
+        answers: {
+            a: "El padre",
+            b: "La madre",
+            c: "Ambos padres"
+        },
+        correctAnswer: "b"
+    },
+    {
+        question: "¿Cómo se llaman las mutaciones que ocurren en las células que producen óvulos o espermatozoides?", 
+        answers: {
+            a: "Mutaciones somáticas",
+            b: "Mutaciones germinales",
+            c: "Mutaciones neutras"
+        },
+        correctAnswer: "b"
+    },
+    {
+        question: "Si un individuo tiene dos alelos diferentes para un mismo gen (Aa), se dice que es:", 
+        answers: {
+            a: "Homocigoto",
+            b: "Heterocigoto",
+            c: "Recesivo"
+        },
+        correctAnswer: "b"
+    },
+    {
+        question: "¿Qué tipo de mutación no altera la función de la proteína resultante?", 
+        answers: {
+            a: "Mutación nociva",
+            b: "Mutación neutra",
+            c: "Mutación benéfica"
+        },
+        correctAnswer: "b"
     }
 ];
 
